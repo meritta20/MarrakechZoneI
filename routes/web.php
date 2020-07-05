@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/* welcome admax */
+
 Route::get('/', function () {
     return view('welcome');
 });
